@@ -1,0 +1,6 @@
+<TextView
+android:text="happy!"
+android:Background="android:color/darker-gray"
+android:layout_width="150dp"
+android:layout_height="175dp"/>
+
